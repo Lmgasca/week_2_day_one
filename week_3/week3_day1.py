@@ -86,13 +86,14 @@ print(f"{name} liked to hum the song {song} while coding. It was so annoting tha
 # Correcting Invalid Names: Below are some invalid names. Correct them according to the rules:
 
 
-# 1st_name
-# last name
-# email@address
-# percent%
-# variable#name
-# O
-# list
+# first_name
+# last_name
+# email_address
+# percent
+# variable_name
+# Zero
+# list # this is a keywords in python
+ # you cannot use it for your own variable name
 # Creating Valid Names: Create valid names for the following descriptions:
 
 
@@ -113,10 +114,10 @@ print(f"{name} liked to hum the song {song} while coding. It was so annoting tha
 # email_address
 # percentage
 # variable_name
-# 1_variable
-# email@address
-# percentage%
-# i
+# variable
+# email_address
+# percentage
+# ice_cream
 
 
 
